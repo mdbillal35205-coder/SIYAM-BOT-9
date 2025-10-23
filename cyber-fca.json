@@ -3,7 +3,7 @@
 	"PreKey": "",
 	"AutoUpdate": true,
 	"MainColor": "#9900FF",
-	"MainName": "[ cyber-fca ]", //হুদাই এই ফাইলের কোনো কাজ নাই , তারপরও লাগাই রখলাম । চাইলে আপনারা ডিলেট করে দিতে পারেন।
+	"MainName": "[ cyber-fca ]",
 	"Uptime": false,
 	"Config": "default",
 	"DevMode": false,
